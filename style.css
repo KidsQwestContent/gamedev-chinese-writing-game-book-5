@@ -62,8 +62,3 @@ html, body, canvas {
 }
 
 
-@font-face {
-	font-family: 'quicksand-bold-webfont';
-	src: url('fonts/quicksand-bold-webfont.woff2') format('woff2'), url('fonts/quicksand-bold-webfont.woff') format('woff');
-}
-
